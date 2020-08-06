@@ -24,3 +24,4 @@ class Calculator:
         self.validate_args(x, y)
         return x/y
 
+    Calculator.main()
